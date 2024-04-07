@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ProfilePage/static/css/main.9e2b5f86.css",
+    "main.js": "/ProfilePage/static/js/main.f19b7759.js",
+    "static/css/64.bba8fa55.chunk.css": "/ProfilePage/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/ProfilePage/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/ProfilePage/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/ProfilePage/static/js/769.bda0d7b7.chunk.js",
+    "static/media/missouri-tigers-logo-png-transparent.png": "/ProfilePage/static/media/missouri-tigers-logo-png-transparent.9799f9bb04c28bb453b6.png",
+    "static/media/Montserrat-Regular.ttf": "/ProfilePage/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/ProfilePage/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/AE.jpg": "/ProfilePage/static/media/AE.aa278f883bd37e7734ae.jpg",
+    "static/media/manOnTable.svg": "/ProfilePage/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/3-LaunchCode.jpg": "/ProfilePage/static/media/3-LaunchCode.603225109a58ba7eaea2.jpg",
+    "static/media/contactMailDark.svg": "/ProfilePage/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/ProfilePage/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/ProfilePage/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/nextuLogo.webp": "/ProfilePage/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/ProfilePage/index.html",
+    "static/media/talksCardBack.svg": "/ProfilePage/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9e2b5f86.css.map": "/ProfilePage/static/css/main.9e2b5f86.css.map",
+    "main.f19b7759.js.map": "/ProfilePage/static/js/main.f19b7759.js.map",
+    "64.bba8fa55.chunk.css.map": "/ProfilePage/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/ProfilePage/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/ProfilePage/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/ProfilePage/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2b5f86.css",
+    "static/js/main.f19b7759.js"
+  ]
+}
