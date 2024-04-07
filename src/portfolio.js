@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Colleen Blake",
-  title: emoji("Hi y'all, I'm Colleen!"),
+  title: emoji("Hey, I'm Colleen!"),
   subTitle: emoji(
     "Recent LaunchCode graduate and aspiring software developer with a unique blend of experience in customer service, management, and buying, coupled with an ongoing path in learning full-stack web development. Pursuing expertise in technologies such as C#, ASP.NET Core, JavaScript, React, SQLServer and MySQL. I am excited to bring my diverse background to a team that values creativity, collaboration, and innovation."
   ),
