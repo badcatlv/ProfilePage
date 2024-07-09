@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 489,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +50,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -60,7 +64,7 @@
               "RelativeDocumentMoniker": "src\\portfolio.js",
               "ToolTip": "C:\\Users\\colle\\OneDrive\\Desktop\\Projects\\Profile\\src\\portfolio.js",
               "RelativeToolTip": "src\\portfolio.js",
-              "ViewState": "AQIAACwBAAAAAAAAAAAAAA8AAAAfAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAI4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-08T21:48:39.184Z",
               "EditorCaption": ""
@@ -75,8 +79,7 @@
               "RelativeToolTip": "src\\App.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-08T21:48:28.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:48:28.309Z"
             },
             {
               "$type": "Document",
@@ -88,8 +91,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-08T21:30:08.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:30:08.254Z"
             },
             {
               "$type": "Document",
@@ -101,8 +103,7 @@
               "RelativeToolTip": "example",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-08T21:29:01.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:29:01.243Z"
             },
             {
               "$type": "Document",
@@ -114,8 +115,7 @@
               "RelativeToolTip": "fetch.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-08T21:25:01.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:25:01.644Z"
             }
           ]
         },
